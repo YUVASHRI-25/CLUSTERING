@@ -6,7 +6,7 @@ This project applies **unsupervised machine learning techniques** to the Wine da
 We use **KMeans, Hierarchical Clustering, and DBSCAN**, and evaluate them with clustering metrics like **Silhouette Score, Davies–Bouldin Index, ARI**, and **WCSS (Elbow method)**.
 
 ---
-
+**TRY WITH GRADIO:**https://huggingface.co/spaces/YUVASHRII/UNSUPERVISED
 ## 🔹 Dataset
 
 * **Source**: Wine dataset (178 samples, 13 features).
